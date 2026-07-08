@@ -1,10 +1,12 @@
-# Competitive Programming
+# Competitive Programming 🚀
 
-My Codeforces solutions, organized by problem rating.
+Starting my Codeforces grind — one problem at a time.
 
-## Structure
-- `800/` - 800 rated problems
-- `900/` - 900 rated problems
+This repo is where I track my journey through competitive programming,
+solving problems rated 800 and beyond.
 
-## Progress
-Just getting started!
+> "The only way to get better at competitive programming is to solve more problems."
+
+---
+
+🟢 Currently grinding: **800 - 900 rated problems**
