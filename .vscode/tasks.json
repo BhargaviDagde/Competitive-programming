@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run C++",
+      "type": "shell",
+      "command": "g++ -std=c++17 -O2 -Wall -o ${fileDirname}/${fileBasenameNoExtension}.exe ${file} && ${fileDirname}/${fileBasenameNoExtension}.exe < ${fileDirname}/${fileBasenameNoExtension}_input.txt",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
